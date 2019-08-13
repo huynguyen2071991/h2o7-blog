@@ -5,3 +5,4 @@ title: new blog post
 description: new post
 ---
 ### 1st post
+[![test](http://img.youtube.com/vi/JeTqxCJC56Q/0.jpg)](http://www.youtube.com/watch?v=JeTqxCJC56Q "test")
